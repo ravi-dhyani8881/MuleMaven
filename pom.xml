@@ -142,7 +142,7 @@
           <repository>
             <id>Central</id>
             <name>Central</name>
-            <url>https://mvnrepository.com/</url>
+            <url>https://mvnrepository.com/artifact/</url>
             <layout>default</layout>
         </repository>
         <repository>
